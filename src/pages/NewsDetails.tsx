@@ -1,4 +1,4 @@
-import {Image, Linking, ScrollView, TouchableOpacity, View} from 'react-native';
+import {Image, Linking, ScrollView, TouchableOpacity} from 'react-native';
 import {CustomText} from '../components';
 import PageWrapper from '../components/PageWrapper';
 import {NewsDetailsNav} from '../navigation/types';
